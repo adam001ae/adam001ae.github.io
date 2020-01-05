@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adam001ae/adam001ae.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/adam001ae/adam001ae.github.io/static/js/main.57b10463.chunk.js",
+    "main.js.map": "/adam001ae/adam001ae.github.io/static/js/main.57b10463.chunk.js.map",
+    "runtime-main.js": "/adam001ae/adam001ae.github.io/static/js/runtime-main.5ce28e2c.js",
+    "runtime-main.js.map": "/adam001ae/adam001ae.github.io/static/js/runtime-main.5ce28e2c.js.map",
+    "static/js/2.edd1bec6.chunk.js": "/adam001ae/adam001ae.github.io/static/js/2.edd1bec6.chunk.js",
+    "static/js/2.edd1bec6.chunk.js.map": "/adam001ae/adam001ae.github.io/static/js/2.edd1bec6.chunk.js.map",
+    "index.html": "/adam001ae/adam001ae.github.io/index.html",
+    "precache-manifest.da088dfd7b11824c9c9d30b5c7c149fc.js": "/adam001ae/adam001ae.github.io/precache-manifest.da088dfd7b11824c9c9d30b5c7c149fc.js",
+    "service-worker.js": "/adam001ae/adam001ae.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/adam001ae/adam001ae.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.edd1bec6.chunk.js.LICENSE": "/adam001ae/adam001ae.github.io/static/js/2.edd1bec6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ce28e2c.js",
+    "static/js/2.edd1bec6.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.57b10463.chunk.js"
+  ]
+}
